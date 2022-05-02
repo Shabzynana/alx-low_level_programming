@@ -1,6 +1,6 @@
 # C - File I/O
 
-* **The three standard file descriptors and their `POSIX` names.
+* The three standard file descriptors and their `POSIX` names.
 * The difference between function and system calls.
 * The I/O system calls; `open`, `close`, `read`, and `write`
 * The flags `O_RDONLY`, `WR_ONLY`, and `O_RDWR` to create, open, close,
